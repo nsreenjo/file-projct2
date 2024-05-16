@@ -1,0 +1,51 @@
+.perant{
+    display: flex;
+    flex-direction: column;
+
+}
+.a{
+    background-color: aliceblue;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end
+}
+.b{
+    background-color: rgb(117, 175, 250);
+    display: flex;
+    align-items: center;
+    
+}
+.c{
+    background-color: aliceblue;
+    height: 150px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+h5{
+    display: flex;
+    text-align: center;
+}
+.d{
+    background-color: rgb(102, 147, 206);
+    height: 120px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
+.s{
+    color: rgb(0, 0, 8);
+    /* display: flex; */
+     /* flex-direction: column; */
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+button{
+    border: solid rgba(83, 168, 237, 0.642) 2px;
+    background-color: rgb(246, 248, 250);
+}
